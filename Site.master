@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+          <div id="header">
+            <div class="logo">
+              <a href=Default.aspx><img src="images/logo.gif"  style="height: 80px; width: 250px"/></a>
+            </div>
+            <div class="navbar">
+               <ul id="nav" >
+                <li><a class="bi" href="index.html">首　页<span>首　页</span></a></li>
+                <li><a class="bi" href="about.html">找搭档<span>找搭档</span></a></li>
+                <li><a class="bi" href="products.html">PK时间<span>PK时间</span></a></li>
+                <li><a class="bi" href="services.html">合作商家<span>合作商家</span></a></li>
+                <li><a class="bi" href="contact.html">合作商家<span>合作商家</span></a></li>
+               </ul>     
+            </div>
+         </div>
+         <div  >
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+    </div>
+    <div class="clear">
+   
+    </div>
+    <div class="footer"> 
+      xiaoyannv 
+    </div>
+    </form>
+</body>
+</html>
