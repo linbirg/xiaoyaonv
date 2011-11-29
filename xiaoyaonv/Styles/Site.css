@@ -1,9 +1,20 @@
-﻿  body {background-color: #FFFFE0 }
+﻿  body
+{
+    background-color: #FFFFFF;
+}
   .logo{ margin:5px 0px 2px 220px}
-  .navbar { BACKGROUND-color:#d8da3d; BOTTOM: 0px; LINE-HEIGHT: 40px; HEIGHT: 40px}
-  a{
-  color: #d8da3d;
-  text-decoration: none;
+  .navbar
+{
+    background-color: #00FF00;
+    bottom: 0px;
+    line-height: 40px;
+    height: 40px;
+}
+  a
+{
+    color: #d8da3d;
+    text-decoration: none;
+    background-color: #FFFFFF;
 }
  a:hover{
   color: #FFFFFF;
@@ -39,17 +50,18 @@
   left: -999em;
   visibility: hidden;
 }
-#nav li a,.bi:hover span{
-  line-height: 38px;
-  text-decoration: none;
-  background: #d8da3d;
-  color: #FFFFFF;
-  display: block;
-  width: 100px;
-  text-align: center;
-          top: 0px;
-          left: 0px;
-      }
+#nav li a, .bi:hover span
+{
+    line-height: 38px;
+    text-decoration: none;
+    background: #00FF00;
+    color: #FFFFFF;
+    display: block;
+    width: 100px;
+    text-align: center;
+    top: 0px;
+    left: 0px;
+}
 #nav li a:hover,.bi:hover span{
   color: #FFFFFF;
   background: #D3D3D3;
@@ -72,8 +84,20 @@ margin-left:5px;
 width:240px;    
 }
 
+.floor
+{
+    
+}
+
+.clear{
+    margin:0;
+    padding:0;
+    border:0;
+    clear:both;
+}
+
 .product_box{
-width:290px;
+width:190px;
 height: auto;
 margin:auto;
 float:left;
@@ -83,13 +107,13 @@ border:1px #9e1c50 solid;
 }
 img.prod_image{
 padding:0 10px 0 0;
-width:280px;
-height: auto;
+width:172px;
+height: 303px;
 margin:0 0 6px 6px;
 }
 
 .product_details{
- width:280px;
+ width:180px;
 height: auto;
  
 }

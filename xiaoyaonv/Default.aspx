@@ -13,8 +13,12 @@
          </DIV>
       </div>
        <div id="content_1">
+       <div id="floor_1" class="floor">
+       <div class="floor_bar" 
+               style="font-size: large; font-weight: bold; border-bottom-style: solid; border-bottom-color: #FF0000;">
+            <li style="list-style-type: none">潮流上衣</li></div>
 
-        <div class="product_box">
+       <div class="product_box">
         <img src="images/p1.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
           <p> 评价内容    </p>
@@ -23,7 +27,7 @@
         </div>
         </div>
 
-          <div class="product_box">
+       <div class="product_box">
         <img src="images/p2.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
           <p> 评价内容    </p>
@@ -32,7 +36,7 @@
         </div>
         </div>
 
-          <div class="product_box">
+       <div class="product_box">
         <img src="images/p3.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
           <p> 评价内容    </p>
@@ -41,7 +45,24 @@
         </div>
         </div>
 
-          <div class="product_box">
+       <div class="product_box">
+        <img src="images/p4.jpg" alt="" title="" class="prod_image" />
+        <div class="product_details">
+          <p> 评价内容    </p>
+          <p class="price">人气 <span class="price">82.90</span></p>
+          <p>打分</p>
+        </div>
+        </div>
+
+        <div class="clear"></div>
+       </div>
+
+
+       <div id="floor_2" class="floor">
+       <div class="floor_bar" 
+               style="font-size: large; font-weight: bold; border-bottom-style: solid; border-bottom-color: #FF0000;">
+            <li style="list-style-type: none">时尚风衣</li></div>
+            <div class="product_box">
         <img src="images/p4.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
           <p> 评价内容    </p>
@@ -76,7 +97,23 @@
           <p>打分</p>
         </div>
         </div>
+        <div class="clear"></div>
+       </div>
 
+       <div id="floor_3" class="floor">
+       <div class="floor_bar" 
+               style="font-size: large; font-weight: bold; border-bottom-style: solid; border-bottom-color: #FF0000;">
+            <li style="list-style-type: none">女士流行</li></div>
+
+            <div class="product_box">
+        <img src="images/p9.jpg" alt="" title="" class="prod_image" />
+        <div class="product_details">
+          <p> 评价内容    </p>
+          <p class="price">人气 <span class="price">82.90</span></p>
+          <p>打分</p>
+        </div>
+        </div>
+        
           <div class="product_box">
         <img src="images/p8.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
@@ -85,24 +122,9 @@
           <p>打分</p>
         </div>
         </div>
-
-          <div class="product_box">
-        <img src="images/p9.jpg" alt="" title="" class="prod_image" />
-        <div class="product_details">
-          <p> 评价内容    </p>
-          <p class="price">人气 <span class="price">82.90</span></p>
-          <p>打分</p>
-        </div>
-        </div>
-
-          <div class="product_box">
-        <img src="images/p10.jpg" alt="" title="" class="prod_image" />
-        <div class="product_details">
-          <p> 评价内容    </p>
-          <p class="price">人气 <span class="price">82.90</span></p>
-          <p>打分</p>
-        </div>
-        </div>
+        <div class="clear"></div>
+       </div>
+        
            
        </div>
        <div id="content_2">
