@@ -24,7 +24,7 @@ public partial class About : System.Web.UI.Page
     protected void Page_Load(object sender, EventArgs e)
     {
         String strConnString;
-        strConnString = "Server=localhost;User Id=root; Password=root; Database=xiaoyaonv; Pooling=false";
+        strConnString = "Server=127.0.0.1;User Id=root; Password=root; Database=xiaoyaonv; Pooling=false";
         objConn = new MySqlConnection(strConnString);
         objConn.Open();
 
