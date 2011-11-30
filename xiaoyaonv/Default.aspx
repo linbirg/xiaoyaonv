@@ -21,36 +21,44 @@
        <div class="product_box">
         <img src="images/p1.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
-          <p> 评价内容    </p>
-          <p class="price">人气 <span class="price">82.90</span></p>
-          <p>打分</p>
+          <ul style="">
+          <li> 评价内容    </li>
+          <li class="price">人气 <span class="price">82.90</span></li>
+          <li>打分</li>
+          </ul>
         </div>
         </div>
 
        <div class="product_box">
         <img src="images/p2.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
-          <p> 评价内容    </p>
-          <p class="price">人气 <span class="price">82.90</span></p>
-          <p>打分</p>
+          <ul style="">
+          <li> 评价内容    </li>
+          <li class="price">人气 <span class="price">82.90</span></li>
+          <li>打分</li>
+          </ul>
         </div>
         </div>
 
        <div class="product_box">
         <img src="images/p3.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
-          <p> 评价内容    </p>
-          <p class="price">人气 <span class="price">82.90</span></p>
-          <p>打分</p>
+         <ul style="">
+          <li> 评价内容    </li>
+          <li class="price">人气 <span class="price">82.90</span></li>
+          <li>打分</li>
+          </ul>
         </div>
         </div>
 
        <div class="product_box">
         <img src="images/p4.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
-          <p> 评价内容    </p>
-          <p class="price">人气 <span class="price">82.90</span></p>
-          <p>打分</p>
+          <ul style="">
+          <li> 评价内容    </li>
+          <li class="price">人气 <span class="price">82.90</span></li>
+          <li>打分</li>
+          </ul>
         </div>
         </div>
 
@@ -65,36 +73,44 @@
             <div class="product_box">
         <img src="images/p4.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
-          <p> 评价内容    </p>
-          <p class="price">人气 <span class="price">82.90</span></p>
-          <p>打分</p>
+          <ul style="">
+          <li> 评价内容    </li>
+          <li class="price">人气 <span class="price">82.90</span></li>
+          <li>打分</li>
+          </ul>
         </div>
         </div>
 
           <div class="product_box">
         <img src="images/p5.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
-          <p> 评价内容    </p>
-          <p class="price">人气 <span class="price">82.90</span></p>
-          <p>打分</p>
+          <ul style="">
+          <li> 评价内容    </li>
+          <li class="price">人气 <span class="price">82.90</span></li>
+          <li>打分</li>
+          </ul>
         </div>
         </div>
 
           <div class="product_box">
         <img src="images/p6.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
-          <p> 评价内容    </p>
-          <p class="price">人气 <span class="price">82.90</span></p>
-          <p>打分</p>
+         <ul style="">
+          <li> 评价内容    </li>
+          <li class="price">人气 <span class="price">82.90</span></li>
+          <li>打分</li>
+          </ul>
         </div>
         </div>
 
           <div class="product_box">
         <img src="images/p7.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
-          <p> 评价内容    </p>
-          <p class="price">人气 <span class="price">82.90</span></p>
-          <p>打分</p>
+          <ul style="">
+          <li> 评价内容    </li>
+          <li class="price">人气 <span class="price">82.90</span></li>
+          <li>打分</li>
+          </ul>
         </div>
         </div>
         <div class="clear"></div>
@@ -108,18 +124,22 @@
             <div class="product_box">
         <img src="images/p9.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
-          <p> 评价内容    </p>
-          <p class="price">人气 <span class="price">82.90</span></p>
-          <p>打分</p>
+          <ul style="">
+          <li> 评价内容    </li>
+          <li class="price">人气 <span class="price">82.90</span></li>
+          <li>打分</li>
+          </ul>
         </div>
         </div>
         
           <div class="product_box">
         <img src="images/p8.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
-          <p> 评价内容    </p>
-          <p class="price">人气 <span class="price">82.90</span></p>
-          <p>打分</p>
+          <ul style="">
+          <li> 评价内容    </li>
+          <li class="price">人气 <span class="price">82.90</span></li>
+          <li>打分</li>
+          </ul>
         </div>
         </div>
         <div class="clear"></div>

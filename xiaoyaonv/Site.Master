@@ -30,9 +30,10 @@
     <div class="clear">
    
     </div>
-    <div class="footer"> 
-      xiaoyannv 
-    </div>
+    <div class="footer" 
+        style="border-style: solid none none none; border-top-color: #FF0000">
+        <li style="list-style-type: none; border-bottom-style: inset; display: inline;">xiaoyannv.com copyright@2011</li>
+      </div>
     </form>
 </body>
 </html>
