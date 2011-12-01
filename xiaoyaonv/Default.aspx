@@ -6,7 +6,7 @@
     <div class="main">
       <div id="banner">
          <div class="col_1">
-            <div style="margin-top:2px"><img src="images/index_ad.gif" style="width:699px ;height:150px" /></div>
+            <div style="margin-top:2px"><img src="images/p1.jpg" style="width:699px ;height:150px" /></div>
          </div>
          <DIV class="col_2">
             <div id="right" style="margin-top:2px"><img src="images/hot.jpg" style="width:240px; height:150px" /></div>
@@ -18,7 +18,7 @@
                style="font-size: large; font-weight: bold; border-bottom-style: solid; border-bottom-color: #FF0000;">
             <li style="list-style-type: none">潮流上衣</li></div>
 
-       <div class="product_box">
+    <div class="product_box">
         <img src="images/p1.jpg" alt="" title="" class="prod_image" />
         <div class="product_details">
           <ul style="">
