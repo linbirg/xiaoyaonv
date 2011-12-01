@@ -117,9 +117,37 @@ margin:0 0 6px 6px;
 }
 
 .product_details{
-    width: 220px;
+    width: 195px;
     height: 68px;
+    position:inherit;
 }
+
+.product_details .title
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.product_details .meta
+{
+    border-color: #C0C0C0;
+    border-top-style: dotted;
+    border-top-width: thin;
+    padding-top: 5px;
+}
+
+.product_details .meta .star
+{
+    margin-left: 10px;
+    margin-right:40px;
+}
+
+.product_details .meta .fans
+{ 
+    margin-left: 10px;
+    color: #0000FF; }
+
+
 
 .product_details ul
 {
